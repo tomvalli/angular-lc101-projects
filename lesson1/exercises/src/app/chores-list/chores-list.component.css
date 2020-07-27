@@ -1,0 +1,13 @@
+h3 {
+    text-decoration: underline;
+}
+
+.chores {
+    color: forestgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-size: 2em;
+    font-style: italic;
+}
